@@ -74,3 +74,7 @@ async def create_order(request: Request):
         return JSONResponse({"success": False, "error": str(e)}, status_code=500)
     finally:
         client.close()
+        
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=7860)        
