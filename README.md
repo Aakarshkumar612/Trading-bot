@@ -231,5 +231,5 @@ All loggers write to a single `logs/trading_bot.log` file. This makes it easy to
 
 ## 👤 Author
 
-**ISHU**  
+**AAKARSH KUMAR**  
 B.Tech AI — Gautam Buddha University  
