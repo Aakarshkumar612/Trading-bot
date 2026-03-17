@@ -4,4 +4,3 @@ httpx
 typer
 rich
 python-dotenv
-mangum
